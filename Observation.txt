@@ -1,3 +1,3 @@
 1. The temperature is higher close to the tropical area, the further away, the lower the temperature.
 2. Cloudiness is not showing clear trend with latitude change, it's generally spread out to be not so relevent to latitude. 
-3. Wind speed is generally higher towards polar region, with some outliers distictively high.
+3. Wind speed is not showing strong trend with the change of latitude. But there are some cities having really strong wind in northen atmosphere.
